@@ -1,6 +1,8 @@
 # cflash - The monitor flashlight
 > Make your monitor usefull and use it as a flashlight in the dark! 🥹  
 > It's written in only **two lines** of C code which makes it [suckless](https://suckless.org/) approved!  
+## Screenshot of cflash
+![cflash](https://github.com/plastic-bottleneck/cflash/blob/main/cflash.jpg)
 
 ---
 
